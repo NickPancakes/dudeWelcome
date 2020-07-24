@@ -1,6 +1,6 @@
 name: dudeWelcome
 title: dudeWelcome
-version: 1.0.0
+version: 1.0.1
 forge: 32.0.70
 minecraft: 1.16.1
 authors:
@@ -11,7 +11,7 @@ mods:
   - waddles:
       version: Waddles-1.16.1-0.8.7.jar
   - just-enough-resources-jer:
-      version: JustEnoughResources-1.16.1-0.11.0.79.jar
+      version: JustEnoughResources-1.16.1-0.11.0.81.jar
   - polymorph:
       version: polymorph-FORGE-1.16.1-0.11.jar
   - cosmetic-armor-reworked:
@@ -56,8 +56,6 @@ mods:
       version: BetterAdvancements-1.16.1-0.1.0.100.jar
   - the-conjurer:
       version: the-conjurer-1.16.1-1.0.6.jar
-  - forbidden-arcanus:
-      version: forbidden_arcanus-1.16.1-1.0-beta-2.jar
   - ping:
       version: Ping-1.16.1-1.6.5.jar
   - savage-and-ravage:
@@ -101,7 +99,7 @@ mods:
   - quark-oddities:
       version: QuarkOddities-1.15.2.jar
   - engineers-decor:
-      version: engineersdecor-1.16.1-1.1.1-b3.jar
+      version: engineersdecor-1.16.1-1.1.1-b4.jar
   - torchslabs-mod:
       version: torchslabmod-1.16.1_v1.6.16.jar
   - stepup:
@@ -189,9 +187,7 @@ mods:
   - enchanted-book-redesign:
       version: enchantedbookredesign-3.0.jar
   - enhanced-mushrooms:
-      version: Enhanced-Mushrooms-1.16.1-v2.0.3.jar
-  - oldjavawarning:
-      version: OldJavaWarning-1.16.1-4.0.1.jar
+      version: Enhanced-Mushrooms-1.16.1-v2.0.4.jar
   - xaeros-minimap:
       version: Xaeros_Minimap_20.17.0_Forge_1.16.1.jar
   - trashslot:
@@ -204,4 +200,11 @@ mods:
       version: NetherPortalFix_1.16.1-7.0.0.jar
   - jeitweaker:
       version: JEITweaker-1.16.1-1.0.1.2.jar
+  - cloth-config-forge:
+      version: cloth-config-forge-4.0.2.jar
+  - cc-tweaked:
+      version: cc-tweaked-1.16.1-1.90.1.jar
+  - peacefulsurface:
+      version: PeacefulSurface-1.16.1-v1a.jar
+
 resourcepacks: []

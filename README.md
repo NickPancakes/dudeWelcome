@@ -25,6 +25,7 @@ If you wish to keep your server updated using just this repo:
 
 1. Update your repo: `git pull`
 1. Build the latest server distribution: `./build-server.sh`
+1. Remove the mods folder from your existing server: `rm -rf ~/your/dudeWelcome/server/folder/mods`
 1. copy everything from the ./build/server/ folder over top of your server location: `cp -rf ./build/server/* ~/your/dudeWelcome/server/folder/`
 
 ------------------------------
