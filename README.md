@@ -32,6 +32,7 @@ If you wish to keep your server updated using just this repo:
 ## Art Credits
 
 [Deku Tree in Minecraft was taken from Ericake](https://www.minecraftforum.net/forums/minecraft-java-edition/creative-mode/367388-hyrule-from-the-legend-of-zelda-ocarina-of-time#c1)
+
 [Deku Tree in Minish Cap style was taken from Baddassbill](https://www.spriters-resource.com/custom_edited/thelegendofzeldacustoms/sheet/17326/)
 
 ------------------------------
@@ -39,6 +40,7 @@ If you wish to keep your server updated using just this repo:
 ## Modpack Credits
 
 dude... Welcome was initially based off of [Valhelsia 3](https://www.curseforge.com/minecraft/modpacks/valhelsia-3).
+
 This repo makes heavy use of the python script [packmaker](https://packmaker.readthedocs.io/en/stable/reference/index.html).
 
 Everything else done by me, NickPancakes. 
