@@ -1,6 +1,6 @@
 name: dudeWelcome
 title: dudeWelcome
-version: 1.0.1
+version: 1.0.2
 forge: 32.0.70
 minecraft: 1.16.1
 authors:
@@ -18,6 +18,7 @@ mods:
       version: CosmeticArmorReworked-1.16.1-v1a.jar
   - packmenu:
       version: PackMenu-1.16.1-2.0.0.jar
+      version: PackMenu-1.16.1-2.1.0.jar
   - structure-gel-api:
       version: structure-gel-api-1.16.1-1.1.1.jar
   - absent-by-design:
@@ -30,18 +31,23 @@ mods:
       version: SnowRealMagic-1.16.1-2.0.0.jar
   - mekanism-additions:
       version: MekanismAdditions-1.16.1-10.0.3.426.jar
+      version: MekanismAdditions-1.16.1-10.0.5.428.jar
   - mekanism:
       version: Mekanism-1.16.1-10.0.3.426.jar
+      version: Mekanism-1.16.1-10.0.5.428.jar
   - bamboo-blocks:
       version: Bamboo-Blocks-1.16.1-2.0.0.jar
   - mekanism-generators:
       version: MekanismGenerators-1.16.1-10.0.3.426.jar
+      version: MekanismGenerators-1.16.1-10.0.5.428.jar
   - buzzier-bees:
       version: Buzzier-Bees-1.16.1-2.0.0.jar
   - kiwi:
       version: Kiwi-1.16.1-3.1.3.jar
+      version: Kiwi-1.16.1-3.1.4.jar
   - mekanism-tools:
       version: MekanismTools-1.16.1-10.0.3.426.jar
+      version: MekanismTools-1.16.1-10.0.5.428.jar
   - abnormals-core:
       version: Abnormals-Core-1.16.1-v2.0.0.jar
   - waystones:
@@ -54,14 +60,13 @@ mods:
       version: MixinBootstrap-1.0.3.jar
   - better-advancements:
       version: BetterAdvancements-1.16.1-0.1.0.100.jar
-  - the-conjurer:
-      version: the-conjurer-1.16.1-1.0.6.jar
   - ping:
       version: Ping-1.16.1-1.6.5.jar
   - savage-and-ravage:
       version: Savage-and-Ravage-1.16.1-2.0.0.jar
   - structurize:
       version: structurize-0.13.20-ALPHA.jar
+      version: structurize-0.13.28-ALPHA.jar
   - ai-improvements:
       version: AI-Improvements-1.16.1-0.3.0.jar
   - endergetic:
@@ -86,12 +91,14 @@ mods:
       version: ImmersiveEngineering-0.16-109.jar
   - crafttweaker:
       version: CraftTweaker-1.16.1-7.0.0.13.jar
+      version: CraftTweaker-1.16.1-7.0.0.19.jar
   - crafting-tweaks:
       version: CraftingTweaks_1.16.1-12.0.4.jar
   - snow-under-trees:
       version: snowundertrees-1.16.1-v1.1.1.jar
   - quark:
       version: Quark-r2.2-255.jar
+      version: Quark-r2.2-256.jar
   - industrial-foregoing:
       version: industrial-foregoing-1.16.1-3.0.3-5935836.jar
   - autoreglib:
@@ -146,6 +153,7 @@ mods:
       version: DefaultOptions_1.16.1-12.0.1.jar
   - randompatches:
       version: randompatches-1.16.1-1.22.0.0.jar
+      version: randompatches-1.16.1-1.22.1.1.jar
   - fastfurnace:
       version: FastFurnace-1.16.1-4.0.0.jar
   - leap:
@@ -156,6 +164,7 @@ mods:
       version: serverconfigupdater-1.2.jar
   - pams-harvestcraft-2-food-core:
       version: pamhc2foodcore-1.16.1-1.0.3.jar
+      version: pamhc2foodcore-1.16.1-1.0.4.jar
   - valhelsia-structures:
       version: valhelsia_structures-16.0.1.jar
   - server-tab-info:
@@ -166,6 +175,7 @@ mods:
       version: mining-helmet-1.16.1-1.0.8.jar
   - toast-control:
       version: ToastControl-1.16.1-4.0.0.jar
+      version: ToastControl-1.16.1-4.0.1.jar
   - refined-storage-addons:
       version: refinedstorageaddons-0.7.jar
   - titanium:
@@ -174,8 +184,6 @@ mods:
       version: MouseTweaks-2.13-mc1.16.1.jar
   - storage-drawers:
       version: StorageDrawers-1.16.1-8.0.0.jar
-  - look-at-that:
-      version: LookAtThat-1.7-1.16.1.jar
   - curio-of-undying:
       version: curioofundying-FORGE-1.16.1-4.0.jar
   - clumps:
@@ -204,7 +212,30 @@ mods:
       version: cloth-config-forge-4.0.2.jar
   - cc-tweaked:
       version: cc-tweaked-1.16.1-1.90.1.jar
+      version: cc-tweaked-1.16.1-1.90.3.jar
   - peacefulsurface:
       version: PeacefulSurface-1.16.1-v1a.jar
+  - openblocks-elevator:
+      version: elevatorid-1.16.1-1.7.3.jar
+  - potion-of-bees:
+      version: potionofbees-1.16.1-1.0.1.0.jar
+  - culinary-construct:
+      version: culinaryconstruct-FORGE-1.16.1-3.0.jar
+  - botany-pots:
+      version: BotanyPots-1.16.1-3.0.4.jar
+  - drawers-tooltip:
+      version: DrawersTooltip-1.16.1-2.0.0.jar
+  - cycle-paintings:
+      version: cyclepaintings_1.16-1.3.jar
+  - itemzoom:
+      version: itemzoom-1.16.1-2.2.0.jar
+  - simply-light:
+      version: simplylight-1.16.1-1.0.0.jar
+  - uppers:
+      version: Uppers-0.3.0.jar
+  - hwyla:
+      version: Hwyla-forge-1.10.9-B76_1.16.1.jar
+
+
 
 resourcepacks: []
