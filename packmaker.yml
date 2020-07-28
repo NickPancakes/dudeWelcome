@@ -1,7 +1,7 @@
 name: dudeWelcome
 title: dudeWelcome
-version: 1.0.3
-forge: 32.0.70
+version: 1.0.4
+forge: 32.0.77
 minecraft: 1.16.1
 authors:
   - NickPancakes
@@ -15,7 +15,6 @@ mods:
   - polymorph:
       version: polymorph-FORGE-1.16.1-0.11.jar
   - cosmetic-armor-reworked:
-      version: CosmeticArmorReworked-1.16.1-v1a.jar
       version: CosmeticArmorReworked-1.16.1-v1b.jar
   - packmenu:
       version: PackMenu-1.16.1-2.1.0.jar
@@ -225,6 +224,11 @@ mods:
       version: Hwyla-forge-1.10.9-B76_1.16.1.jar
   - redstone-gates:
       version: gates-1.6.1.jar
+  - bookshelf:
+      version: Bookshelf-1.16.1-6.1.11.jar
+  - collective:
+      version: collective-1.16.1-1.35.jar
+
 
 
 

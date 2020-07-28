@@ -1,4 +1,19 @@
 
+# v1.0.4
+
+### Added
+- bookshelf:
+    version: Bookshelf-1.16.1-6.1.11.jar
+- collective:
+    version: collective-1.16.1-1.35.jar
+
+### Updated
+- Forge 32.0.70 -> Forge 32.0.77
+
+
+-----------------------------------
+
+
 # v1.0.3
 
 ### Added
