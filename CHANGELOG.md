@@ -1,4 +1,18 @@
 
+# v1.0.3
+
+### Added
+- redstone-gates
+
+### Updated
+- PeacefulSurface-1.16.1-v1a.jar -> PeacefulSurface-1.16.1-v1b.jar
+- CraftTweaker-1.16.1-7.0.0.19.jar -> CraftTweaker-1.16.1-7.0.0.20.jar
+- CosmeticArmorReworked-1.16.1-v1a.jar -> CosmeticArmorReworked-1.16.1-v1b.jar
+
+
+-----------------------------------
+
+
 # v1.0.2
 
 ### Added
@@ -19,17 +33,17 @@
  
 ### Updated
 - cc-tweaked-1.16.1-1.90.1.jar -> cc-tweaked-1.16.1-1.90.3.jar
-- ToastControl-1.16.1-4.0.0.jar - ToastControl-1.16.1-4.0.1.jar
-- pamhc2foodcore-1.16.1-1.0.3.jar - pamhc2foodcore-1.16.1-1.0.4.jar
-- randompatches-1.16.1-1.22.0.0.jar - randompatches-1.16.1-1.22.1.1.jar
-- Quark-r2.2-255.jar - Quark-r2.2-256.jar
-- CraftTweaker-1.16.1-7.0.0.13.jar - CraftTweaker-1.16.1-7.0.0.19.jar
-- structurize-0.13.20-ALPHA.jar - structurize-0.13.28-ALPHA.jar
-- Kiwi-1.16.1-3.1.3.jar - Kiwi-1.16.1-3.1.4.jar
-- Mekanism-1.16.1-10.0.3.426.jar - Mekanism-1.16.1-10.0.5.428.jar
-- MekanismTools-1.16.1-10.0.3.426.jar - MekanismTools-1.16.1-10.0.5.428.jar
-- MekanismAdditions-1.16.1-10.0.3.426.jar - MekanismAdditions-1.16.1-10.0.5.428.jar
-- PackMenu-1.16.1-2.0.0.jar - PackMenu-1.16.1-2.1.0.jar
+- ToastControl-1.16.1-4.0.0.jar -> ToastControl-1.16.1-4.0.1.jar
+- pamhc2foodcore-1.16.1-1.0.3.jar -> pamhc2foodcore-1.16.1-1.0.4.jar
+- randompatches-1.16.1-1.22.0.0.jar -> randompatches-1.16.1-1.22.1.1.jar
+- Quark-r2.2-255.jar -> Quark-r2.2-256.jar
+- CraftTweaker-1.16.1-7.0.0.13.jar -> CraftTweaker-1.16.1-7.0.0.19.jar
+- structurize-0.13.20-ALPHA.jar -> structurize-0.13.28-ALPHA.jar
+- Kiwi-1.16.1-3.1.3.jar -> Kiwi-1.16.1-3.1.4.jar
+- Mekanism-1.16.1-10.0.3.426.jar -> Mekanism-1.16.1-10.0.5.428.jar
+- MekanismTools-1.16.1-10.0.3.426.jar -> MekanismTools-1.16.1-10.0.5.428.jar
+- MekanismAdditions-1.16.1-10.0.3.426.jar -> MekanismAdditions-1.16.1-10.0.5.428.jar
+- PackMenu-1.16.1-2.0.0.jar -> PackMenu-1.16.1-2.1.0.jar
 
 ### Other
 Got rid of most of the scripted recipe changes. 

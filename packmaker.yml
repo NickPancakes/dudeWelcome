@@ -1,6 +1,6 @@
 name: dudeWelcome
 title: dudeWelcome
-version: 1.0.2
+version: 1.0.3
 forge: 32.0.70
 minecraft: 1.16.1
 authors:
@@ -16,8 +16,8 @@ mods:
       version: polymorph-FORGE-1.16.1-0.11.jar
   - cosmetic-armor-reworked:
       version: CosmeticArmorReworked-1.16.1-v1a.jar
+      version: CosmeticArmorReworked-1.16.1-v1b.jar
   - packmenu:
-      version: PackMenu-1.16.1-2.0.0.jar
       version: PackMenu-1.16.1-2.1.0.jar
   - structure-gel-api:
       version: structure-gel-api-1.16.1-1.1.1.jar
@@ -30,23 +30,18 @@ mods:
   - snow-real-magic:
       version: SnowRealMagic-1.16.1-2.0.0.jar
   - mekanism-additions:
-      version: MekanismAdditions-1.16.1-10.0.3.426.jar
       version: MekanismAdditions-1.16.1-10.0.5.428.jar
   - mekanism:
-      version: Mekanism-1.16.1-10.0.3.426.jar
       version: Mekanism-1.16.1-10.0.5.428.jar
   - bamboo-blocks:
       version: Bamboo-Blocks-1.16.1-2.0.0.jar
   - mekanism-generators:
-      version: MekanismGenerators-1.16.1-10.0.3.426.jar
       version: MekanismGenerators-1.16.1-10.0.5.428.jar
   - buzzier-bees:
       version: Buzzier-Bees-1.16.1-2.0.0.jar
   - kiwi:
-      version: Kiwi-1.16.1-3.1.3.jar
       version: Kiwi-1.16.1-3.1.4.jar
   - mekanism-tools:
-      version: MekanismTools-1.16.1-10.0.3.426.jar
       version: MekanismTools-1.16.1-10.0.5.428.jar
   - abnormals-core:
       version: Abnormals-Core-1.16.1-v2.0.0.jar
@@ -65,7 +60,6 @@ mods:
   - savage-and-ravage:
       version: Savage-and-Ravage-1.16.1-2.0.0.jar
   - structurize:
-      version: structurize-0.13.20-ALPHA.jar
       version: structurize-0.13.28-ALPHA.jar
   - ai-improvements:
       version: AI-Improvements-1.16.1-0.3.0.jar
@@ -90,14 +84,12 @@ mods:
   - immersive-engineering:
       version: ImmersiveEngineering-0.16-109.jar
   - crafttweaker:
-      version: CraftTweaker-1.16.1-7.0.0.13.jar
-      version: CraftTweaker-1.16.1-7.0.0.19.jar
+      version: CraftTweaker-1.16.1-7.0.0.20.jar
   - crafting-tweaks:
       version: CraftingTweaks_1.16.1-12.0.4.jar
   - snow-under-trees:
       version: snowundertrees-1.16.1-v1.1.1.jar
   - quark:
-      version: Quark-r2.2-255.jar
       version: Quark-r2.2-256.jar
   - industrial-foregoing:
       version: industrial-foregoing-1.16.1-3.0.3-5935836.jar
@@ -152,7 +144,6 @@ mods:
   - default-options:
       version: DefaultOptions_1.16.1-12.0.1.jar
   - randompatches:
-      version: randompatches-1.16.1-1.22.0.0.jar
       version: randompatches-1.16.1-1.22.1.1.jar
   - fastfurnace:
       version: FastFurnace-1.16.1-4.0.0.jar
@@ -163,7 +154,6 @@ mods:
   - serverconfig-updater:
       version: serverconfigupdater-1.2.jar
   - pams-harvestcraft-2-food-core:
-      version: pamhc2foodcore-1.16.1-1.0.3.jar
       version: pamhc2foodcore-1.16.1-1.0.4.jar
   - valhelsia-structures:
       version: valhelsia_structures-16.0.1.jar
@@ -174,7 +164,6 @@ mods:
   - miners-helmet:
       version: mining-helmet-1.16.1-1.0.8.jar
   - toast-control:
-      version: ToastControl-1.16.1-4.0.0.jar
       version: ToastControl-1.16.1-4.0.1.jar
   - refined-storage-addons:
       version: refinedstorageaddons-0.7.jar
@@ -211,10 +200,9 @@ mods:
   - cloth-config-forge:
       version: cloth-config-forge-4.0.2.jar
   - cc-tweaked:
-      version: cc-tweaked-1.16.1-1.90.1.jar
       version: cc-tweaked-1.16.1-1.90.3.jar
   - peacefulsurface:
-      version: PeacefulSurface-1.16.1-v1a.jar
+      version: PeacefulSurface-1.16.1-v1b.jar
   - openblocks-elevator:
       version: elevatorid-1.16.1-1.7.3.jar
   - potion-of-bees:
@@ -235,6 +223,8 @@ mods:
       version: Uppers-0.3.0.jar
   - hwyla:
       version: Hwyla-forge-1.10.9-B76_1.16.1.jar
+  - redstone-gates:
+      version: gates-1.6.1.jar
 
 
 
