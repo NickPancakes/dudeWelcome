@@ -1,11 +1,19 @@
 
+# v1.0.5
+
+### Added
+- The Conjurer
+
+Turns out removing the-conjurer breaks your saves. Fun.
+
+
+-----------------------------------
+
 # v1.0.4
 
 ### Added
-- bookshelf:
-    version: Bookshelf-1.16.1-6.1.11.jar
-- collective:
-    version: collective-1.16.1-1.35.jar
+- bookshelf
+- collective
 
 ### Updated
 - Forge 32.0.70 -> Forge 32.0.77
