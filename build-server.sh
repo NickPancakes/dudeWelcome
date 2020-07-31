@@ -2,7 +2,7 @@
 source ./yaml.sh
 create_variables packmaker.yml
 echo "Building dudeWelcome Server v$version for Minecraft $minecraft and Forge $forge"
-rm -rf ./build/
+rm -rf ./build/server
 packmaker updatedb
 packmaker lock
 packmaker build-server

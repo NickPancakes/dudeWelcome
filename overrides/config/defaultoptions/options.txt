@@ -60,9 +60,9 @@ tutorialStep:none
 mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
-skipMultiplayerWarning:false
+skipMultiplayerWarning:true
 syncChunkWrites:true
-soundCategory_master:0.7566225
+soundCategory_master:0.75
 soundCategory_music:0.5
 soundCategory_record:1.0
 soundCategory_weather:1.0

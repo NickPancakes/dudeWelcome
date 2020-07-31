@@ -1,3 +1,35 @@
+# v1.0.6
+
+### Updated
+- Forge 32.0.77 -> Forge 32.0.88
+- Mekanism-1.16.1-10.0.5.428.jar -> Mekanism-1.16.1-10.0.6.429.jar
+- MekanismAdditions-1.16.1-10.0.5.428.jar -> MekanismAdditions-1.16.1-10.0.6.429.jar
+- MekanismGenerators-1.16.1-10.0.5.428.jar -> MekanismGenerators-1.16.1-10.0.6.429.jar
+- MekanismTools-1.16.1-10.0.5.428.jar -> MekanismTools-1.16.1-10.0.6.429.jar
+- Abnormals-Core-1.16.1-v2.0.0.jar -> Abnormals-Core-1.16.1-2.0.1.jar
+- structurize-0.13.28-ALPHA.jar -> structurize-0.13.32-RELEASE.jar
+- CraftTweaker-1.16.1-7.0.0.20.jar -> CraftTweaker-1.16.1-7.0.0.21.jar
+- XaerosWorldMap_1.7.4_Forge_1.16.1.jar -> XaerosWorldMap_1.8.1_Forge_1.16.1.jar
+- pamhc2foodcore-1.16.1-1.0.4.jar -> pamhc2foodcore-1.16.1-1.0.5.jar
+- Xaeros_Minimap_20.17.0_Forge_1.16.1.jar -> Xaeros_Minimap_20.18.0.1_Forge_1.16.1.jar
+- Hwyla-forge-1.10.9-B76_1.16.1.jar -> Hwyla-forge-1.10.10-B77_1.16.1.jar
+- JustEnoughResources-1.16.1-0.11.0.81.jar -> JustEnoughResources-1.16.1-0.11.1.88.jar
+- SnowRealMagic-1.16.1-2.0.0.jar -> SnowRealMagic-1.16.1-2.0.1.jar
+- Kiwi-1.16.1-3.1.4.jar -> Kiwi-1.16.1-3.2.0.jar
+- Placebo-1.16.1-4.0.1.jar -> Placebo-1.16.1-4.0.2.jar
+- BiomesOPlenty-1.16.1-11.0.0.390-universal.jar -> BiomesOPlenty-1.16.1-11.0.0.391-universal.jar
+- Enhanced-Mushrooms-1.16.1-v2.0.4.jar -> Enhanced-Mushrooms-1.16.1-v2.0.7.jar
+- structurize-0.13.32-RELEASE.jar -> structurize-0.13.33-ALPHA.jar
+- cherishedworlds-FORGE-1.16.1-4.0.jar -> cherishedworlds-FORGE-1.16.1-4.0.0.1.jar
+- Kiwi-1.16.1-3.2.0.jar -> Kiwi-1.16.1-3.2.1.jar
+- engineersdecor-1.16.1-1.1.1-b4.jar -> engineersdecor-1.16.1-1.1.1-b5.jar
+
+
+### Removed
+- TorchSlabMod
+
+-----------------------------------
+
 
 # v1.0.5
 

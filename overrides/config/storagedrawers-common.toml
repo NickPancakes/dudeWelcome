@@ -2,7 +2,7 @@
 [General]
 	#List of rules in format "domain:item1, domain:item2, n".
 	#Causes a compacting drawer convert n of item1 into 1 of item2.
-	compactingRules = ["minecraft:clay, minecraft:clay_ball, 4"]
+	compactingRules = ["minecraft:clay, minecraft:clay_ball, 4", "bluepower:copper_block, bluepower:copper_ingot, 9", "bluepower:silver_block, bluepower:silver_ingot, 9", "mekanism:block_copper, mekanism:ingot_copper, 9,", "mekanism:ingot_copper, mekanism:nugget_copper, 9", "mekanism:block_uranium, mekanism:ingot_uranium, 9", "mekanism:ingot_uranium, mekanism:nugget_uranium, 9", "mekanism:block_lead, mekanism:ingot_lead, 9", "mekanism:ingot_lead, mekanism:nugget_lead, 9", "mekanism:block_tin, mekanism:ingot_tin, 9", "mekanism:ingot_tin, mekanism:nugget_tin, 9", "mekanism:block_steel, mekanism:ingot_steel, 9", "mekanism:ingot_steel, mekanism:nugget_steel, 9", "immersiveengineering:storage_steel, immersiveengineering:ingot_steel, 9", "immersiveengineering:ingot_steel, immersiveengineering:nugget_steel, 9", "immersiveengineering:storage_uranium, immersiveengineering:ingot_uranium, 9", "immersiveengineering:ingot_uranium, immersiveengineering:nugget_uranium, 9", "immersiveengineering:storage_lead, immersiveengineering:ingot_lead, 9", "immersiveengineering:ingot_lead, immersiveengineering:nugget_lead, 9", "immersiveengineering:storage_silver, immersiveengineering:ingot_silver, 9", "immersiveengineering:silver_ingot, immersiveengineering:nugget_silver, 9"]
 	enableUI = true
 	debugTrace = false
 	enableItemConversion = true

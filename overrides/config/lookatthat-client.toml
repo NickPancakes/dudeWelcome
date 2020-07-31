@@ -1,8 +1,0 @@
-
-#General settings
-[general]
-	#Whether or not the HUD will be centered or to the left on the screen.
-	centerHud = false
-	#Should the overlay show harvestability.
-	harvestability = true
-
