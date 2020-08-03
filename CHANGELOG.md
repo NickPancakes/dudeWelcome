@@ -1,3 +1,33 @@
+# v1.0.7
+
+### Updated
+- simplylight-1.16.1-1.0.0.jar -> simplylight-1.16.1-1.0.1.jar
+- Placebo-1.16.1-4.0.2.jar -> Placebo-1.16.1-4.0.3.jar
+- CraftTweaker-1.16.1-7.0.0.21.jar -> CraftTweaker-1.16.1-7.0.0.22.jar
+- Controlling-7.0.0.2.jar -> Controlling-7.0.0.3.jar
+- jei-1.16.1-7.0.0.6.jar -> jei-1.16.1-7.0.0.7.jar
+- Enhanced-Mushrooms-1.16.1-v2.0.7.jar -> Enhanced-Mushrooms-1.16.1-v2.0.8.jar
+- Bookshelf-1.16.1-6.1.11.jar -> Bookshelf-1.16.1-6.2.14.jar
+- JustEnoughResources-1.16.1-0.11.1.88.jar -> JustEnoughResources-1.16.1-0.11.1.90.jar
+- polymorph-FORGE-1.16.1-0.11.jar -> polymorph-FORGE-1.16.1-0.12.jar
+- bedspreads-FORGE-1.16.1-4.0.jar -> bedspreads-FORGE-1.16.1-4.0.0.1.jar
+- Mekanism-1.16.1-10.0.6.429.jar -> Mekanism-1.16.1-10.0.8.431.jar
+- MekanismAdditions-1.16.1-10.0.6.429.jar -> MekanismAdditions-1.16.1-10.0.8.431.jar
+- MekanismGenerators-1.16.1-10.0.6.429.jar -> MekanismGenerators-1.16.1-10.0.8.431.jar
+- MekanismTools-1.16.1-10.0.6.429.jar -> MekanismTools-1.16.1-10.0.8.431.jar
+- Buzzier-Bees-1.16.1-2.0.0.jar -> Buzzier-Bees-1.16.1-2.0.1.jar
+- structurize-0.13.34-ALPHA.jar -> structurize-0.13.36-ALPHA.jar
+- curios-FORGE-1.16.1-3.0.jar -> curios-FORGE-1.16.1-3.0.0.1.jar
+- DoubleSlabs-1.16-3.2.0.jar -> DoubleSlabs-1.16-3.3.0.jar
+- jei-1.16.1-7.0.0.7.jar -> jei-1.16.1-7.0.1.9.jar
+- culinaryconstruct-FORGE-1.16.1-3.0.jar -> culinaryconstruct-FORGE-1.16.1-3.0.0.1.jar
+- DrawersTooltip-1.16.1-2.0.0.jar -> DrawersTooltip-1.16.1-2.0.1.jar
+- engineersdecor-1.16.1-1.1.1-b5.jar -> engineersdecor-1.16.1-1.1.1-b6.jar
+
+
+
+-----------------------------------
+
 # v1.0.6
 
 ### Updated
