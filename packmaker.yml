@@ -1,6 +1,6 @@
 name: dudeWelcome
 title: dudeWelcome
-version: 1.0.7
+version: 1.0.8
 forge: 32.0.88
 minecraft: 1.16.1
 authors:
@@ -11,11 +11,7 @@ mods:
   - waddles:
       version: Waddles-1.16.1-0.8.7.jar
   - just-enough-resources-jer:
-    #version: JustEnoughResources-1.16.1-0.11.1.88.jar
       version: JustEnoughResources-1.16.1-0.11.1.90.jar
-  - polymorph:
-    #version: polymorph-FORGE-1.16.1-0.11.jar
-      version: polymorph-FORGE-1.16.1-0.12.jar
   - cosmetic-armor-reworked:
       version: CosmeticArmorReworked-1.16.1-v1b.jar
   - packmenu:
@@ -23,28 +19,22 @@ mods:
   - absent-by-design:
       version: absentbydesign-1.16.1-1.1.0.jar
   - jei-enchantment-info:
-      version: JEIEnchantmentInfo-1.16.1-1.1.0.jar
+      version: JEIEnchantmentInfo-1.16.1-1.2.0.jar
   - bedspreads:
-    #version: bedspreads-FORGE-1.16.1-4.0.jar
       version: bedspreads-FORGE-1.16.1-4.0.0.1.jar
   - snow-real-magic:
       version: SnowRealMagic-1.16.1-2.0.1.jar
   - mekanism:
-    #version: Mekanism-1.16.1-10.0.6.429.jar
       version: Mekanism-1.16.1-10.0.8.431.jar
   - mekanism-additions:
-    #version: MekanismAdditions-1.16.1-10.0.6.429.jar
       version: MekanismAdditions-1.16.1-10.0.8.431.jar
   - mekanism-generators:
-    #version: MekanismGenerators-1.16.1-10.0.6.429.jar
       version: MekanismGenerators-1.16.1-10.0.8.431.jar
   - mekanism-tools:
-    #version: MekanismTools-1.16.1-10.0.6.429.jar
       version: MekanismTools-1.16.1-10.0.8.431.jar
   - bamboo-blocks:
       version: Bamboo-Blocks-1.16.1-2.0.0.jar
   - buzzier-bees:
-    #version: Buzzier-Bees-1.16.1-2.0.0.jar
       version: Buzzier-Bees-1.16.1-2.0.1.jar
   - abnormals-core:
       version: Abnormals-Core-1.16.1-2.0.1.jar
@@ -63,8 +53,7 @@ mods:
   - savage-and-ravage:
       version: Savage-and-Ravage-1.16.1-2.0.0.jar
   - structurize:
-    #version: structurize-0.13.34-ALPHA.jar
-      version: structurize-0.13.36-ALPHA.jar
+      version: structurize-0.13.37-ALPHA.jar
   - ai-improvements:
       version: AI-Improvements-1.16.1-0.3.0.jar
   - endergetic:
@@ -84,8 +73,7 @@ mods:
   - curious-elytra:
       version: curiouselytra-FORGE-1.16.1-3.0.jar
   - curios:
-    #version: curios-FORGE-1.16.1-3.0.jar
-      version: curios-FORGE-1.16.1-3.0.0.1.jar
+      version: curios-FORGE-1.16.1-3.0.0.2.jar
   - immersive-engineering:
       version: ImmersiveEngineering-0.16-109.jar
   - crafttweaker:
@@ -100,6 +88,8 @@ mods:
       version: StepUp-1.16.1-0.2.0.jar
   - xaeros-world-map:
       version: XaerosWorldMap_1.8.1_Forge_1.16.1.jar
+  - xaeros-minimap:
+      version: Xaeros_Minimap_20.18.0.1_Forge_1.16.1.jar
   - better-burning:
       version: BetterBurning-1.16.1-2.0.2.jar
   - biomes-o-plenty:
@@ -121,10 +111,8 @@ mods:
   - fast-leaf-decay:
       version: FastLeafDecay-v23.jar
   - double-slabs:
-    #version: DoubleSlabs-1.16-3.2.0.jar
-      version: DoubleSlabs-1.16-3.3.0.jar
+      version: DoubleSlabs-1.16-3.3.3.jar
   - jei:
-    #version: jei-1.16.1-7.0.0.7.jar
       version: jei-1.16.1-7.0.1.9.jar
   - iron-chests:
       version: ironchest-1.16.1-11.0.1.jar
@@ -182,8 +170,6 @@ mods:
       version: enchantedbookredesign-3.0.jar
   - enhanced-mushrooms:
       version: Enhanced-Mushrooms-1.16.1-v2.0.8.jar
-  - xaeros-minimap:
-      version: Xaeros_Minimap_20.18.0.1_Forge_1.16.1.jar
   - trashslot:
       version: TrashSlot_1.16.1-12.0.1.jar
   - natures-compass:
@@ -205,12 +191,10 @@ mods:
   - potion-of-bees:
       version: potionofbees-1.16.1-1.0.1.0.jar
   - culinary-construct:
-    #version: culinaryconstruct-FORGE-1.16.1-3.0.jar
       version: culinaryconstruct-FORGE-1.16.1-3.0.0.1.jar
   - botany-pots:
       version: BotanyPots-1.16.1-3.0.4.jar
   - drawers-tooltip:
-    #version: DrawersTooltip-1.16.1-2.0.0.jar
       version: DrawersTooltip-1.16.1-2.0.1.jar
   - cycle-paintings:
       version: cyclepaintings_1.16-1.3.jar
@@ -241,10 +225,6 @@ mods:
   - kiwi:
       version: Kiwi-1.16.1-3.2.1.jar
   - engineers-decor:
-    #version: engineersdecor-1.16.1-1.1.1-b5.jar
       version: engineersdecor-1.16.1-1.1.1-b6.jar
-
-
-
 
 resourcepacks: []

@@ -1,3 +1,14 @@
+# v1.0.8
+
+### Removed
+Polymorph (temporary: https://github.com/ValhelsiaTeam/Valhelsia/issues/221)
+
+### Updated
+- JEIEnchantmentInfo-1.16.1-1.1.0.jar -> JEIEnchantmentInfo-1.16.1-1.2.0.jar
+- structurize-0.13.36-ALPHA.jar -> structurize-0.13.37-ALPHA.jar
+- curios-FORGE-1.16.1-3.0.0.1.jar -> curios-FORGE-1.16.1-3.0.0.2.jar
+- DoubleSlabs-1.16-3.3.0.jar -> DoubleSlabs-1.16-3.3.3.jar
+
 # v1.0.7
 
 ### Updated
