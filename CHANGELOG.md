@@ -1,3 +1,34 @@
+# v1.1.0
+
+### Updated
+- Forge 32.0.88 -> Forge 32.0.106
+- JustEnoughResources-1.16.1-0.11.1.90.jar -> JustEnoughResources-1.16.1-0.11.1.93.jar
+- PackMenu-1.16.1-2.1.0.jar -> PackMenu-1.16.1-2.1.2.jar
+- bedspreads-FORGE-1.16.1-4.0.0.1.jar -> bedspreads-FORGE-1.16.1-4.0.0.2.jar
+- Abnormals-Core-1.16.1-2.0.1.jar -> Abnormals-Core-1.16.1-2.0.2.jar
+- Placebo-1.16.1-4.0.3.jar -> Placebo-1.16.1-4.1.1.jar
+- ImmersiveEngineering-0.16-109.jar -> ImmersiveEngineering-1.16.1-3.1-112.jar
+- industrial-foregoing-1.16.1-3.0.3-5935836.jar -> industrial-foregoing-1.16.1-3.0.4-eeeb31e.jar
+- BiomesOPlenty-1.16.1-11.0.0.391-universal.jar -> BiomesOPlenty-1.16.1-11.0.0.393-universal.jar
+- FastWorkbench-1.16.1-4.1.1.jar -> FastWorkbench-1.16.1-4.2.0.jar
+- caelus-FORGE-1.16.1-2.0-beta5.jar -> caelus-FORGE-1.16.1-2.0-beta7.jar
+- FastFurnace-1.16.1-4.0.0.jar -> FastFurnace-1.16.1-4.1.0.jar
+- decorative_blocks-7a.jar -> decorative_blocks-7c.jar
+- ToastControl-1.16.1-4.0.1.jar -> ToastControl-1.16.1-4.1.1.jar
+- titanium-1.16.1-3.0.2.jar -> titanium-1.16.1-3.0.4.jar
+- Bookshelf-1.16.1-6.2.14.jar -> Bookshelf-1.16.1-6.3.17.jar
+- the-conjurer-1.16.1-1.0.6.jar -> the-conjurer-1.16.1-1.0.8.jar
+- structure-gel-api-1.16.1-1.1.1.jar -> structure-gel-api-1.16.1-1.2.1.jar
+- AutoRegLib-1.6-42.jar -> AutoRegLib-1.6-43.jar
+- Quark-r2.2-256.jar -> Quark-r2.2-260.jar
+
+
+I also decided I'm updating the min version on forge updates from now on (and resetting patch to 0). Major version will only update if we update minecraft versions. Patch will be updated on mod updates/adds/removals.
+
+
+-----------------------------------
+
+
 # v1.0.8
 
 ### Removed
@@ -8,6 +39,10 @@ Polymorph (temporary: https://github.com/ValhelsiaTeam/Valhelsia/issues/221)
 - structurize-0.13.36-ALPHA.jar -> structurize-0.13.37-ALPHA.jar
 - curios-FORGE-1.16.1-3.0.0.1.jar -> curios-FORGE-1.16.1-3.0.0.2.jar
 - DoubleSlabs-1.16-3.3.0.jar -> DoubleSlabs-1.16-3.3.3.jar
+
+
+-----------------------------------
+
 
 # v1.0.7
 
@@ -36,8 +71,8 @@ Polymorph (temporary: https://github.com/ValhelsiaTeam/Valhelsia/issues/221)
 - engineersdecor-1.16.1-1.1.1-b5.jar -> engineersdecor-1.16.1-1.1.1-b6.jar
 
 
-
 -----------------------------------
+
 
 # v1.0.6
 

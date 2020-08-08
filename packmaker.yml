@@ -1,7 +1,7 @@
 name: dudeWelcome
 title: dudeWelcome
 version: 1.0.8
-forge: 32.0.88
+forge: 32.0.106
 minecraft: 1.16.1
 authors:
   - NickPancakes
@@ -11,17 +11,20 @@ mods:
   - waddles:
       version: Waddles-1.16.1-0.8.7.jar
   - just-enough-resources-jer:
-      version: JustEnoughResources-1.16.1-0.11.1.90.jar
+      #version: JustEnoughResources-1.16.1-0.11.1.90.jar
+      version: JustEnoughResources-1.16.1-0.11.1.93.jar
   - cosmetic-armor-reworked:
       version: CosmeticArmorReworked-1.16.1-v1b.jar
   - packmenu:
-      version: PackMenu-1.16.1-2.1.0.jar
+      #version: PackMenu-1.16.1-2.1.0.jar
+      version: PackMenu-1.16.1-2.1.2.jar
   - absent-by-design:
       version: absentbydesign-1.16.1-1.1.0.jar
   - jei-enchantment-info:
       version: JEIEnchantmentInfo-1.16.1-1.2.0.jar
   - bedspreads:
-      version: bedspreads-FORGE-1.16.1-4.0.0.1.jar
+      #version: bedspreads-FORGE-1.16.1-4.0.0.1.jar
+      version: bedspreads-FORGE-1.16.1-4.0.0.2.jar
   - snow-real-magic:
       version: SnowRealMagic-1.16.1-2.0.1.jar
   - mekanism:
@@ -37,13 +40,15 @@ mods:
   - buzzier-bees:
       version: Buzzier-Bees-1.16.1-2.0.1.jar
   - abnormals-core:
-      version: Abnormals-Core-1.16.1-2.0.1.jar
+      #version: Abnormals-Core-1.16.1-2.0.1.jar
+      version: Abnormals-Core-1.16.1-2.0.2.jar
   - waystones:
       version: Waystones_1.16.1-7.0.2.jar
   - comforts:
       version: comforts-FORGE-1.16.1-3.0.jar
   - placebo:
-      version: Placebo-1.16.1-4.0.3.jar
+      #version: Placebo-1.16.1-4.0.3.jar
+      version: Placebo-1.16.1-4.1.1.jar
   - mixinbootstrap:
       version: MixinBootstrap-1.0.3.jar
   - better-advancements:
@@ -75,7 +80,8 @@ mods:
   - curios:
       version: curios-FORGE-1.16.1-3.0.0.2.jar
   - immersive-engineering:
-      version: ImmersiveEngineering-0.16-109.jar
+      #version: ImmersiveEngineering-0.16-109.jar
+      version: ImmersiveEngineering-1.16.1-3.1-112.jar
   - crafttweaker:
       version: CraftTweaker-1.16.1-7.0.0.22.jar
   - crafting-tweaks:
@@ -83,17 +89,21 @@ mods:
   - snow-under-trees:
       version: snowundertrees-1.16.1-v1.1.1.jar
   - industrial-foregoing:
-      version: industrial-foregoing-1.16.1-3.0.3-5935836.jar
+      #version: industrial-foregoing-1.16.1-3.0.3-5935836.jar
+      version: industrial-foregoing-1.16.1-3.0.4-eeeb31e.jar
   - stepup:
       version: StepUp-1.16.1-0.2.0.jar
   - xaeros-world-map:
       version: XaerosWorldMap_1.8.1_Forge_1.16.1.jar
+      #version: XaerosWorldMap_1.9.0_Forge_1.16.1.jar
   - xaeros-minimap:
       version: Xaeros_Minimap_20.18.0.1_Forge_1.16.1.jar
+      #version: Xaeros_Minimap_20.19.0_Forge_1.16.1.jar
   - better-burning:
       version: BetterBurning-1.16.1-2.0.2.jar
   - biomes-o-plenty:
-      version: BiomesOPlenty-1.16.1-11.0.0.391-universal.jar
+      #version: BiomesOPlenty-1.16.1-11.0.0.391-universal.jar
+      version: BiomesOPlenty-1.16.1-11.0.0.393-universal.jar
   - controlling:
       version: Controlling-7.0.0.3.jar
   - better-title-screen:
@@ -103,7 +113,8 @@ mods:
   - cooking-for-blockheads:
       version: CookingForBlockheads_1.16.1-9.0.0.jar
   - fastworkbench:
-      version: FastWorkbench-1.16.1-4.1.1.jar
+      #version: FastWorkbench-1.16.1-4.1.1.jar
+      version: FastWorkbench-1.16.1-4.2.0.jar
   - appleskin:
       version: AppleSkin-mc1.16.1-forge-1.0.14.jar
   - dash:
@@ -121,7 +132,8 @@ mods:
   - overloaded-armor-bar:
       version: overloadedarmorbar-5.0.0.jar
   - caelus:
-      version: caelus-FORGE-1.16.1-2.0-beta5.jar
+      #version: caelus-FORGE-1.16.1-2.0-beta5.jar
+      version: caelus-FORGE-1.16.1-2.0-beta7.jar
   - extra-boats:
       version: Extra-Boats-1.16.1-1.4.0.jar
   - reauth:
@@ -131,7 +143,8 @@ mods:
   - randompatches:
       version: randompatches-1.16.1-1.22.1.1.jar
   - fastfurnace:
-      version: FastFurnace-1.16.1-4.0.0.jar
+      #version: FastFurnace-1.16.1-4.0.0.jar
+      version: FastFurnace-1.16.1-4.1.0.jar
   - leap:
       version: leap-1.16.1-1.0.1.jar
   - macaws-doors:
@@ -145,15 +158,18 @@ mods:
   - server-tab-info:
       version: ServerTabInfo-1.16.1-1.2.7-alpha.jar
   - decorative-blocks:
-      version: decorative_blocks-7a.jar
+      #version: decorative_blocks-7a.jar
+      version: decorative_blocks-7c.jar
   - miners-helmet:
       version: mining-helmet-1.16.1-1.0.8.jar
   - toast-control:
-      version: ToastControl-1.16.1-4.0.1.jar
+      #version: ToastControl-1.16.1-4.0.1.jar
+      version: ToastControl-1.16.1-4.1.1.jar
   - refined-storage-addons:
       version: refinedstorageaddons-0.7.jar
   - titanium:
-      version: titanium-1.16.1-3.0.2.jar
+      #version: titanium-1.16.1-3.0.2.jar
+      version: titanium-1.16.1-3.0.4.jar
   - mouse-tweaks:
       version: MouseTweaks-2.13-mc1.16.1.jar
   - storage-drawers:
@@ -209,17 +225,22 @@ mods:
   - redstone-gates:
       version: gates-1.6.1.jar
   - bookshelf:
-      version: Bookshelf-1.16.1-6.2.14.jar
+      #version: Bookshelf-1.16.1-6.2.14.jar
+      version: Bookshelf-1.16.1-6.3.17.jar
   - collective:
       version: collective-1.16.1-1.35.jar
   - the-conjurer:
-      version: the-conjurer-1.16.1-1.0.6.jar
+      #version: the-conjurer-1.16.1-1.0.6.jar
+      version: the-conjurer-1.16.1-1.0.8.jar
   - structure-gel-api:
-      version: structure-gel-api-1.16.1-1.1.1.jar
+      #version: structure-gel-api-1.16.1-1.1.1.jar
+      version: structure-gel-api-1.16.1-1.2.1.jar
   - autoreglib:
-      version: AutoRegLib-1.6-42.jar
+      #version: AutoRegLib-1.6-42.jar
+      version: AutoRegLib-1.6-43.jar
   - quark:
-      version: Quark-r2.2-256.jar
+      #version: Quark-r2.2-256.jar
+      version: Quark-r2.2-260.jar
   - quark-oddities:
       version: QuarkOddities-1.15.2.jar
   - kiwi:
@@ -228,3 +249,4 @@ mods:
       version: engineersdecor-1.16.1-1.1.1-b6.jar
 
 resourcepacks: []
+
